@@ -1,6 +1,6 @@
 // Back and Forward Buttons 
 // stack usage challenge
-// by Eduardo Corpeño
+// URLs visited 
 
 #include <iostream>
 #include <stack>
