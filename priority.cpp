@@ -1,5 +1,5 @@
 // std::priority_queue demo
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <queue>
