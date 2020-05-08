@@ -1,6 +1,6 @@
 // Birthday Party 
 // vector and list usage example
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <string>
