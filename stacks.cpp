@@ -1,5 +1,5 @@
 // std::stack demo
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <stack>
