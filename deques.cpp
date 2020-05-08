@@ -1,5 +1,5 @@
 // std::deque demo
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <deque>
