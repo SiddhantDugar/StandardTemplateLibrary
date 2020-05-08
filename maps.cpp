@@ -1,5 +1,5 @@
 // std::map and variants demo
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <map>
