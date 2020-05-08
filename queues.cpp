@@ -1,5 +1,5 @@
 // std::queue demo
-// by Eduardo Corpeño
+
 
 #include <iostream>
 #include <queue>
